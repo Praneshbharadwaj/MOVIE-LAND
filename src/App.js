@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import './App.css';
 import SearchIcon from './search.svg'
-import MovieCard from "./moviecard";
+import MovieCard from "./MovieCard";
 
 // afa5f2ac
 
