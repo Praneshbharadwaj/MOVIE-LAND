@@ -6,7 +6,7 @@ import MovieCard from "./MovieCard";
 
 // afa5f2ac
 
-const API_URL = 'http://www.omdbapi.com?apikey=afa5f2ac'
+const API_URL = 'http://www.omdbapi.com?apikey=a3905db8'
 const movie1 =
 {
     "Title": "The Amazing Spiderman 2 Webb Cut",
