@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MOVIE-LAND/static/css/main.334bdeb1.css",
+    "main.js": "/MOVIE-LAND/static/js/main.27ca10a9.js",
+    "index.html": "/MOVIE-LAND/index.html",
+    "static/media/search.svg": "/MOVIE-LAND/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/MOVIE-LAND/static/css/main.334bdeb1.css.map",
+    "main.27ca10a9.js.map": "/MOVIE-LAND/static/js/main.27ca10a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.27ca10a9.js"
+  ]
+}
